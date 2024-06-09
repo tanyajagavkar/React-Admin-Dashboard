@@ -1,0 +1,13 @@
+#main {
+    margin-top: 60px;
+    padding: 20px 30px;
+    transition: all 0.3s;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 767px) {
+    #main {
+      padding: 20px;
+    }
+  }
+  

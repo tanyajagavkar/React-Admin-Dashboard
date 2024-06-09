@@ -1,0 +1,27 @@
+.logo {
+  line-height: 1;
+}
+
+.logo img {
+  width: 40px;
+  height: 40px;
+}
+
+.logo span {
+  font-size: 26px;
+  font-weight: 700;
+  color: #012870;
+  font-family: 'Nunito', sans-serif;
+}
+
+/* Responsive Styles */
+@media (max-width: 767px) {
+  .logo img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .logo span {
+    font-size: 22px;
+  }
+}

@@ -1,0 +1,18 @@
+.pagetitle {
+    margin-bottom: 10px;
+  }
+  
+  .pagetitle h1 {
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: 600;
+    color: #012970;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 767px) {
+    .pagetitle h1 {
+      font-size: 20px;
+    }
+  }
+  

@@ -1,0 +1,17 @@
+/* In a new CSS file (e.g., badge-styles.css) */
+
+/* Green color for Approved */
+.badge-success {
+    background-color: #28a745;
+  }
+  
+  /* Yellow color for Pending */
+  .badge-warning {
+    background-color: #ffc107;
+  }
+  
+  /* Red color for Rejected */
+  .badge-danger {
+    background-color: #dc3545;
+  }
+  
